@@ -1,2 +1,2 @@
-# Gaturro
-Una pagina de don gaturro para curso de git
+# Esta pagina web es para demostrar lo aprendido en curso de github y git.Esta pagina web es para demostrar lo aprendido en curso de github y git.
+*A lo largo del curso aprendimos a como hacer los commit, hacer ramas, editar desde las ramas, asi como algunos comandos basicos de git. quiero enfatizar que a pesar de que se vio de manera basica, lo aprendido hay fue realmente sensaciona.*
